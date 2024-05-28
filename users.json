@@ -1,0 +1,18 @@
+[
+   {
+      "user_id": "7b58d08e-650e-43ab-af0e-2ba1e0d8340a",
+      "username": "John",
+      "email": "john@gmail.com",
+      "age": 24,
+      "created_at": "2024-03-30 10:27:01.593161",
+      "is_active": true
+   },
+   {
+      "user_id": "22e98e9b-440f-4f9a-9ddd-dd8de76e5799",
+      "username": "Anna",
+      "email": "ali@gmail.com",
+      "age": 50,
+      "created_at": "2024-03-30 10:28:03.218648",
+      "is_active": true
+   }
+]
